@@ -1,0 +1,31 @@
+_repo: The-dramatic-instinct-in-children_70812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Institute of Child Life
+    gutenberg_agent_id: '55933'
+    url: http://www.gutenberg.org/2009/agents/55933
+description: ''
+gutenberg_issued: '2023-05-20'
+identifiers:
+  gutenberg: '70812'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nnc1.0067070361
+pgterms:marc905: 20230501031929richardson
+pgterms:marc906: '1914'
+pgterms:marc907: us
+production_note: This file was produced from images generously made available by the
+  HathiTrust Digital Library.
+publication_note: '  $aUnited States :$bThe Abingdon Press, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child development'
+- !lcsh 'Child psychology'
+- !lcsh 'Play'
+- !lcc 'LB'
+- !lcc 'PN'
+- GITenberg
+title: The dramatic instinct in children
+url: http://www.gutenberg.org/ebooks/70812
