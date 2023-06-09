@@ -1,11 +1,16 @@
 _repo: The-dramatic-instinct-in-children_70812
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70812-h/images/cover.jpg
 creator:
   author:
     agent_name: American Institute of Child Life
     gutenberg_agent_id: '55933'
     url: http://www.gutenberg.org/2009/agents/55933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70812#The-dramatic-instinct-in-children
 gutenberg_issued: '2023-05-20'
 identifiers:
   gutenberg: '70812'
